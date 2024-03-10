@@ -1,0 +1,21 @@
+.navbar-brand {
+    padding: 20px 20px;
+}
+
+h4 {
+    color: #808080;
+    padding: 20px 20px;
+}
+
+.data {
+    color: #000000;
+}
+
+table {
+    text-align: center;
+    margin: auto;
+}
+
+.text-header {
+    text-align: center;
+}
